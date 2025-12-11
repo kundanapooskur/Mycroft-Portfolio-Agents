@@ -41,6 +41,9 @@ This project implements a sophisticated multi-agent reinforcement learning syste
     Semis/Cloud    Mega-caps     Protection
     (NVDA, AMD)   (MSFT, GOOGL)  Diversified
 ```
+<img width="4760" height="3571" alt="image" src="https://github.com/user-attachments/assets/30469955-9d0d-4672-a1d6-4117ab070474" />
+![Uploading image.png…]()
+
 
 ### Agent Specializations
 
