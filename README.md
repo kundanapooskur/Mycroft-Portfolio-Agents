@@ -41,8 +41,7 @@ This project implements a sophisticated multi-agent reinforcement learning syste
     Semis/Cloud    Mega-caps     Protection
     (NVDA, AMD)   (MSFT, GOOGL)  Diversified
 ```
-<img width="4760" height="3571" alt="image" src="https://github.com/user-attachments/assets/30469955-9d0d-4672-a1d6-4117ab070474" />
-![Uploading image.png…]()
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/370c0e01-9988-4bf1-a1b7-aa76a1326640" />
 
 
 ### Agent Specializations
@@ -106,6 +105,9 @@ This project implements a sophisticated multi-agent reinforcement learning syste
 - Stress testing (crash scenarios)
 - Risk decomposition by asset
 - Sortino & Calmar ratios
+
+<img width="4161" height="2969" alt="image" src="https://github.com/user-attachments/assets/a543c2ed-db97-45a9-bd9b-90af8a4bb530" />
+<img width="4760" height="3571" alt="image" src="https://github.com/user-attachments/assets/a2bce1f0-ab73-434d-b7ce-84f2ca8b30b5" />
 
 ### 3. Environment Design
 
