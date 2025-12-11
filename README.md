@@ -44,7 +44,7 @@ This project implements a sophisticated multi-agent reinforcement learning syste
 ```
 
 
-<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/370c0e01-9988-4bf1-a1b7-aa76a1326640" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/370c0e01-9988-4bf1-a1b7-aa76a1326640" />
 
 
 ### Agent Specializations
