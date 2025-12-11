@@ -3,7 +3,7 @@
 
 **"Using AI to Invest in AI Companies"**
 Youtube Link of Demo : https://youtu.be/UlQ-XXiRwZ4
-Technical Documentation : 
+Technical Documentation : https://docs.google.com/document/d/1EuiDKNfRZ1fig3EcFSS1kCOmp_wifO8muUTkkY9SESk/edit?tab=t.0
 ---
 
 ## 🎯 Project Overview
