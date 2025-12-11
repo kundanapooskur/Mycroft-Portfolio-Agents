@@ -2,11 +2,12 @@
 ## Multi-Agent Reinforcement Learning for AI Stock Investment
 
 **"Using AI to Invest in AI Companies"**
-Youtube Link of Demo : https://youtu.be/UlQ-XXiRwZ4
-Technical Documentation : https://docs.google.com/document/d/1EuiDKNfRZ1fig3EcFSS1kCOmp_wifO8muUTkkY9SESk/edit?tab=t.0
 ---
 
 ## 🎯 Project Overview
+
+Youtube Link of Demo : https://youtu.be/UlQ-XXiRwZ4
+Technical Documentation : https://docs.google.com/document/d/1EuiDKNfRZ1fig3EcFSS1kCOmp_wifO8muUTkkY9SESk/edit?tab=t.0
 
 This project implements a sophisticated multi-agent reinforcement learning system that learns to manage a portfolio of AI company stocks through market feedback. Three specialized SAC agents learn complementary investment strategies, coordinated by a DQN meta-learning orchestrator.
 
