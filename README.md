@@ -2,7 +2,8 @@
 ## Multi-Agent Reinforcement Learning for AI Stock Investment
 
 **"Using AI to Invest in AI Companies"**
-
+Youtube Link of Demo : https://youtu.be/UlQ-XXiRwZ4
+Technical Documentation : 
 ---
 
 ## 🎯 Project Overview
