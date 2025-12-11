@@ -1,0 +1,13 @@
+BEFORE vs AFTER COMPARISON:
+
+Random Agent (Before Learning):
+  Return: ~2% (highly variable)
+  Sharpe: ~0.3
+  Strategy: Chaotic, no pattern
+  
+ValueAgent (After Learning):  
+  Return: 17.77%
+  Sharpe: 1.995
+  Strategy: Consistent, learned optimal allocation
+  
+IMPROVEMENT: 6.6x better Sharpe ratio!

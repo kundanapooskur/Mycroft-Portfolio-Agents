@@ -1,0 +1,30 @@
+{
+  "GrowthAgent": {
+    "total_return": 0.11445444938099406,
+    "sharpe_ratio": 1.1975893366937382,
+    "max_drawdown": -0.1190093661457124,
+    "volatility": 0.2897443199390542,
+    "final_value": 111445.4449380994
+  },
+  "ValueAgent": {
+    "total_return": 0.17768011372116524,
+    "sharpe_ratio": 1.9950177819597303,
+    "max_drawdown": -0.10622080840499863,
+    "volatility": 0.25939724396421326,
+    "final_value": 117768.01137211654
+  },
+  "RiskAgent": {
+    "total_return": 0.1651807164939954,
+    "sharpe_ratio": 1.7912947089365048,
+    "max_drawdown": -0.10474038107132036,
+    "volatility": 0.2713873431052346,
+    "final_value": 116518.07164939954
+  },
+  "Orchestrator": {
+    "total_return": 0.1593396849889899,
+    "sharpe_ratio": 1.7074207039533775,
+    "max_drawdown": -0.11154546397234652,
+    "volatility": 0.27583397780334046,
+    "final_value": 115933.96849889899
+  }
+}

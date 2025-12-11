@@ -1,0 +1,50 @@
+# Mycroft RL Portfolio Configuration
+
+# AI Stock Universe (High Conviction from your research)
+tickers:
+  # Semiconductors (Strong Buy Consensus)
+  - NVDA    # 87.5% buy
+  - AVGO    # 93.3% buy
+  - AMD     # 70.6% buy
+  - MU      # 88.0% buy
+  - MRVL    # 87.1% buy
+  
+  # Cloud Infrastructure (Near-Universal Buy)
+  - AMZN    # 97.8% buy
+  - MSFT    # 89.3% buy
+  - GOOGL   # 76.7% buy
+  
+  # Enterprise Software (Divergent but Strong)
+  - NOW     # 89% buy (ServiceNow)
+  - CRM     # 65-70% buy (Salesforce)
+
+# Portfolio Parameters
+portfolio:
+  initial_balance: 100000
+  transaction_cost: 0.001  # 0.1% per trade
+  max_position_size: 0.25  # Max 25% per stock
+  
+# Training Data
+data:
+  start_date: "2023-01-01"
+  end_date: "2024-12-10"
+  test_split: 0.2  # 20% for testing
+  
+# RL Training Parameters
+training:
+  algorithm: "SAC"  # Soft Actor-Critic
+  total_timesteps: 50000
+  learning_rate: 0.0003
+  batch_size: 256
+  buffer_size: 100000
+  
+# Environment Settings
+environment:
+  lookback_window: 20  # Days of price history
+  reward_scaling: 1.0
+  risk_free_rate: 0.045  # 4.5% annual
+  
+# Evaluation
+evaluation:
+  n_eval_episodes: 10
+  eval_freq: 5000

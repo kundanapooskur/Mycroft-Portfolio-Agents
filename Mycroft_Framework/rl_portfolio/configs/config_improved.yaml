@@ -1,0 +1,35 @@
+# Improved config for better RL performance
+
+tickers:
+  - NVDA
+  - AVGO
+  - AMD
+  - MU
+  - MRVL
+  - AMZN
+  - MSFT
+  - GOOGL
+  - NOW
+  - CRM
+
+portfolio:
+  initial_balance: 100000
+  transaction_cost: 0.0005  # Reduced cost
+  max_position_size: 0.20  # Tighter limits
+  
+data:
+  start_date: "2023-01-01"
+  end_date: "2024-12-10"
+  test_split: 0.2
+  
+training:
+  algorithm: "SAC"
+  total_timesteps: 100000  # INCREASED 5x
+  learning_rate: 0.0001  # Lower for stability
+  batch_size: 512  # Larger batches
+  buffer_size: 200000  # More memory
+  
+environment:
+  lookback_window: 20
+  reward_scaling: 2.0  # Amplify rewards
+  risk_free_rate: 0.045
